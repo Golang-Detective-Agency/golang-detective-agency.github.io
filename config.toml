@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Golang 侦探所'
+theme = 'book'
+publishDir = 'docs'
